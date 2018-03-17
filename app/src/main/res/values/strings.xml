@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CleverLab</string>
+    <string name="Lab1_Page1">Lab 1</string>
+    <string name="Lab1_Page2">Lab 2</string>
+    <string name="Lab1_Page3">Lab 3</string>
+    <string name="Lab1_Page4">Lab 4</string>
+</resources>
